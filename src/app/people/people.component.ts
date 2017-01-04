@@ -10,5 +10,5 @@ styleUrls: ['./people.component.sass']
 })
 
 export class PeopleComponent {
-  title = 'Power to the people!!';
+  title = 'power to the people!!';
 }

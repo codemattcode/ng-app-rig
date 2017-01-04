@@ -11,5 +11,5 @@ import { Component } from '@angular/core';
 })
 
 export class HeaderComponent {
-  title = 'this is the header';
+  title = 'get a head start';
 }
