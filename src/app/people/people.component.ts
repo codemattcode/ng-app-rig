@@ -5,7 +5,8 @@ import { Component } from '@angular/core';
   selector: 'people',
   template: `
   <h1>{{title}}</h1>
-`
+`,
+styleUrls: ['./people.component.sass']
 })
 
 export class PeopleComponent {
